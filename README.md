@@ -1,4 +1,5 @@
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d7de254b-04f5-4c7f-9cfd-2dd165bd0be4" />
+
 # INTRODUCTION
 
 Coca-Cola is one of the world’s most iconic beverage brands, known for its wide range of soft drink variants that cater to diverse consumer tastes and lifestyles. From the original Classic to health-conscious options like Zero Sugar and Light, Coca-Cola has continually evolved to meet changing market demands.
