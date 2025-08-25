@@ -48,7 +48,9 @@ The following Power BI features and functionalities were used:
 
 
 ## VISUALIZATION
-<img width="1199" height="673" alt="Screenshot 2025-08-25 112117" src="https://github.com/user-attachments/assets/2efcdb28-4b06-4ba6-b672-d512092c6ef6" />
+<img width="1199" height="673" alt="Screenshot 2025-08-25 112117" src="https://github.com/user-attachments/assets/2efcdb28-4b06-4ba6-b672-d512092c6ef6" /> 
+<img width="590" height="330" alt="image" src="https://github.com/user-attachments/assets/99cbd89c-c068-41d1-ba00-fb31098da378" />
+
 The dashboard uses charts such as cards to track KPIs, pie charts to show comparisons between fields, bar charts, line chart to show trends, tables for full overview. There are slicers to show data filtering.
 
 **[VIEW DASHBOARD HERE](https://app.powerbi.com/links/459Kqx0efo?ctid=f66fae02-5d36-495b-bfe0-78a6ff9f8e6e&pbi_source=linkShare)**
