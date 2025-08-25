@@ -73,4 +73,37 @@ Most variants receive 4 star(★★★★☆) to 5 star(★★★★★) star ra
 There is clear indication that Flavor Content is a key driver of sales, with Cherry and Vanilla variants performing well. Surprisingly enough the variants with higher Caffeine Presence is were the highest sold indicating that the consumers preferred that because caffeine boosts energy, alertness, and mood which could make the variants highly appealing. It also increases impulsive buying behavior, which leads to more purchases in the products whereas packaging size remained standardized at 330ml, ensuring consistency.
 
 
+# Conclusions
+1. Beverage companies globally are expanding flavor portfolios to meet demand for personalization and indulgence. Coca-Cola’s success with Vanilla suggests further potential in this space.
+   
+2. The global shift toward low-sugar, low-calorie beverages is accelerating, driven by health regulations and changing lifestyles. Coca-Cola has the right products but needs stronger positioning and education to boost uptake.
+   
+3. Seasonal marketing and inventory planning are critical. Brands that align campaigns with consumption cycles see higher ROI and better shelf performance.
+   
+5. As competition intensifies, customer experience becomes a key differentiator.
 
+6. Brands that lead in transparency often gain a competitive edge, especially among health-conscious and younger consumers.
+
+The dashboard successfully integrates sales, health, and consumer data, offering a 360° view of Coca-Cola product performance.
+
+# LIMITATIONS
+The data lacks demographic segmentation hence no breakdown by age, region, or lifestyle, limiting targeted analysis.
+There is alo limited historical scope, the data is focused on the year 2023, restricting long-term trend evaluation.
+The customer ratings are aggregated showing no qualitative insights or comments available.
+The dashboard does not compare Coca-Cola performance against competitors because of the limitation of the dataset.
+
+# RECOMMENDATIONS
+
+1. Launch targeted campaigns emphasizing health benefits. Use influencers and digital platforms to reach younger, health-aware audiences.
+
+2. Develop new flavors based on regional preferences and emerging trends.
+
+3. Plan promotions and product launches around seasonal peaks. Bundle products with festive packaging or limited-time offers.
+
+4. Launch loyalty programs that reward feedback and repeat purchases.
+
+5. Promote the Healthiness Score as a unique feature in advertising and packaging to build brand superiority for consumers with high nutritional interests.
+
+   **[VIEW DASHBOARD HERE](https://app.powerbi.com/links/459Kqx0efo?ctid=f66fae02-5d36-495b-bfe0-78a6ff9f8e6e&pbi_source=linkShare)**
+
+   **Designed By;**  **AVENYO FELIX MAWULOLO**
