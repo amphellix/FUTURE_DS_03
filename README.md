@@ -16,14 +16,20 @@ This Power BI dashboard is designed to provide a holistic view of Coca-Cola prod
 The purpose of this project is to support six key objectives:
 
 1. Helping consumers make better consumption choices.
+   
 2. Analyzing sales trends of Coca-Cola variants.
-3. Identifying the most profitable product category.
+   
+3.  Identifying the most profitable product category.
+  
 4. Evaluating the healthiness of each variant.
+ 
 5. Determining the best-selling variant over time.
+   
 6. Understanding customer preferences.
 
 
 # KEY METRICS OVERVIEW
+
 **Total Sales = 133.36K**
 
 **Packaging Size = 330ml**
@@ -36,19 +42,26 @@ The purpose of this project is to support six key objectives:
 
 
 # ABOUT DATASET
+
 The dataset has two unique tables which is the product trends the Product_Trends and Coca-Cola_Products. It has 20 distinct columns and 80 rows. The data was not really dirty hence not much manipulation, cleaning and transformation was done on the data. 
 
 # Power BI Concepts Applied
+
 The following Power BI features and functionalities were used:
 **Data Import and Transformation**: Using Power Query to clean and shape data.
+
 **Relationships & Star Schema**: Establishing one-to-many relationships for efficient filtering and slicer interactions.
+
 **DAX Measures**: Creating KPIs like Total profits, Total Sales, and Total losses made.
 **Visualizations**: Leveraging cards, bar charts, trend lines, treemaps, tables and image visuals.
+
 **Drill-through and Tooltips**: Enabling detailed analysis at product and customer levels.
+
 **Slicers & Filters**: Allowing users to filter data by customer name, category, mode of shipping and segment
 
 
 ## VISUALIZATION
+
 <img width="1199" height="673" alt="Screenshot 2025-08-25 112117" src="https://github.com/user-attachments/assets/2efcdb28-4b06-4ba6-b672-d512092c6ef6" /> 
 <img width="590" height="330" alt="image" src="https://github.com/user-attachments/assets/99cbd89c-c068-41d1-ba00-fb31098da378" />
 
@@ -69,6 +82,7 @@ Zero Sugar and Light variants have the highest healthiness scores of  100% and 9
 The Classic and Flavored variants have high sugar (up to 35g) and calorie contents (up to 150kcal) which tells the consumer how much energy a food or drink provides to them. 
 
 **Customer Ratings**
+
 Most variants receive 4 star(★★★★☆) to 5 star(★★★★★) star ratings indicates gross satisfaction by consumers.Customer satisfaction is generally high, but flavored variants show slightly lower customer ratings (e.g., 0.80 to 3.60)
 
 **Product Attributes**
@@ -77,6 +91,7 @@ There is clear indication that Flavor Content is a key driver of sales, with Che
 
 
 # Conclusions
+
 1. Beverage companies globally are expanding flavor portfolios to meet demand for personalization and indulgence. Coca-Cola’s success with Vanilla suggests further potential in this space.
    
 2. The global shift toward low-sugar, low-calorie beverages is accelerating, driven by health regulations and changing lifestyles. Coca-Cola has the right products but needs stronger positioning and education to boost uptake.
@@ -90,6 +105,7 @@ There is clear indication that Flavor Content is a key driver of sales, with Che
 The dashboard successfully integrates sales, health, and consumer data, offering a 360° view of Coca-Cola product performance.
 
 # LIMITATIONS
+
 The data lacks demographic segmentation hence no breakdown by age, region, or lifestyle, limiting targeted analysis.
 There is alo limited historical scope, the data is focused on the year 2023, restricting long-term trend evaluation.
 The customer ratings are aggregated showing no qualitative insights or comments available.
