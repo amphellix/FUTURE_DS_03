@@ -5,7 +5,7 @@
 Coca-Cola is one of the world’s most iconic beverage brands, known for its wide range of soft drink variants that cater to diverse consumer tastes and lifestyles. From the original Classic to health-conscious options like Zero Sugar and Light, Coca-Cola has continually evolved to meet changing market demands.
 In line with this evolution, the Coca-Cola Power BI dashboard was developed to provide data-driven insights into how these variants perform across key dimensions such as sales, healthiness, and customer preference.
 
-This Power BI dashboard is designed to provide a holistic view of Coca-Cola product variants, focusing on both consumer health awareness and business performance metrics. This project serves tww purposes namely;
+This Power BI dashboard is designed to provide a holistic view of Coca-Cola product variants, focusing on both consumer health awareness and business performance metrics. This project serves two purposes namely;
 
 **Consumers, who benefit from health-related data to make informed choices.**
 
